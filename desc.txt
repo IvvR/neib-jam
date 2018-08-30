@@ -1,5 +1,8 @@
 oK, test passed, logcal repo has been added on GitHub
 
+So, who's the master now ??! I mean am I going to commit
+to a local or remote repo after using -u option ?  
+
 Some updates : 0
 not a simple way. lol 
 it was not rocket sccience
