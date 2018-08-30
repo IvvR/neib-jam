@@ -10,3 +10,5 @@ Some updates : 0
 not a simple way. lol 
 it was not rocket sccience
 it works
+
+Bloody GitHub works ! But f. Bucket isn't.
